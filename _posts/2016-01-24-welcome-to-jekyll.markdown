@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World - Hai Tran"
+title:  "Hello World"
 date:   2016-01-24 13:00:56 +1300
 categories: jekyll update
 ---
