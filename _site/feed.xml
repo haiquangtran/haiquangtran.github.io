@@ -6,12 +6,12 @@
 </description>
     <link>http://hai.world/</link>
     <atom:link href="http://hai.world/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Jan 2016 18:12:02 +1300</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2016 18:12:02 +1300</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2016 18:34:19 +1300</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2016 18:34:19 +1300</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
-        <title>Hello World - Hai Tran</title>
+        <title>Hello World</title>
         <description>&lt;p&gt;Hello world, my name is Hai.&lt;/p&gt;
 
 &lt;p&gt;Welcome to my personal website and blog. 
@@ -40,13 +40,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
  --&gt;
 </description>
         <pubDate>Sun, 24 Jan 2016 13:00:56 +1300</pubDate>
-        <link>http://hai.world/jekyll/update/2016/01/24/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://hai.world/jekyll/update/2016/01/24/welcome-to-jekyll.html</guid>
+        <link>http://hai.world/welcome/2016/01/24/hello-world.html</link>
+        <guid isPermaLink="true">http://hai.world/welcome/2016/01/24/hello-world.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>welcome</category>
         
       </item>
     
