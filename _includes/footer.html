@@ -31,7 +31,6 @@
       <!--<div class="footer-col footer-col-3">-->
         <!--<p>{{ site.description }}</p>-->
       <!--</div>-->
-    <!--</div>-->
 
   <!--</div>-->
 
@@ -39,9 +38,9 @@
 
 <footer id="footer">
   <ul class="icons">
-
     {% if site.github_username %}
     <li>
+      {% include icon-github.html %}
       <a href="https://github.com/{{ site.github_username }}" class="icon fa-github">
         <span class="label">GitHub</span>
       </a>
@@ -50,6 +49,7 @@
 
     {% if site.twitter_username %}
     <li>
+      {% include icon-twitter.html %}
       <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter">
         <span class="label">Twitter</span>
       </a>
@@ -91,14 +91,12 @@
     {% if site.email %}
     <li>
       <a href="mailto:{{ site.email }}" class="icon fa-envelope-o">
-        <span class="label">Email</span>
+        <span class="label">{{ site.email }}</span>
       </a>
     </li>
     {% endif %}
   </ul>
   <ul class="copyright">
     <li>&copy; Hai Tran</li>
-    <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-    <li>Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
   </ul>
 </footer>

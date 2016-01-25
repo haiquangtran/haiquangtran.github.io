@@ -40,3 +40,5 @@ Credits:
 		CSS3 Pie (css3pie.com)
 		background-size polyfill (github.com/louisremi)
 		skel (getskel.com)
+		Design: http://html5up.net
+        Jekyll Template: http://cloudcannon.com (Cloud Cannon)
