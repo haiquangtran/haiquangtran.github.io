@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2016-01-24 13:00:56 +1300
-categories: jekyll update
+categories: welcome
 ---
 
 Hello world, my name is Hai. 
