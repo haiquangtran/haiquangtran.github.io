@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My name is Hai, but people call me "the fucking man"
+My name is Hai and I am a Software Engineer :). 
