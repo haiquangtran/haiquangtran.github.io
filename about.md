@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My name is Hai and I am a Software Engineer :). This website is mainly just to summarize and internalize the teachings from books that I read. Currently a work in progress, stay tuned for this space. 
+My name is Hai Tran. This website is currently under development and is made to contain my travel memories, my experiences, lessons I learnt, and book summaries. 
