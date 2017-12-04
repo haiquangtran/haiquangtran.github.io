@@ -28,6 +28,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: haiquangtran1
 github_username:  haiquangtran
 instagram_username: hai.quang.tran
+linkedin_username: haiquangtran
+youtube_username: haiquangtran
+goodreads_username: haiquangtran
+email_address: hai.quang.tran@gmail.com
 permalink: /:categories/:title
 # Build settings
 markdown: kramdown

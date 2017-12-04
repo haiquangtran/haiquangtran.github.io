@@ -33,8 +33,8 @@
                 <div class="inline-block mt-3 mr-1">
                   {% include dot-accent.html %}
                 </div>
-                <div class="inline-block mt-3">
-                  {% include github.html %}
+                <div class="inline-block mt-3 mr">
+                  {% include dot.html %}
                 </div>
               </div>
               <!-- Set site description in config.yml -->
@@ -42,11 +42,23 @@
             </div>
 
             <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
+                <div class="inline-block mt-3 mr-1">               
+                  {% include email.html %}
+                </div>
+                <div class="inline-block mt-3 mr-1">               
+                  {% include github.html %}
+                </div>
                 <div class="inline-block mt-3 mr-1">
-                  {% include dot.html %}
+                  {% include linkedin.html %}
+                </div>
+                <div class="inline-block mt-3 mr-1">
+                  {% include instagram.html %}
+                </div>
+                <div class="inline-block mt-3 mr-1">
+                  {% include youtube.html %}
                 </div>
                 <div class="inline-block mt-3">
-                  {% include {{ site.social_link | default: "twitter" }}.html %}
+                  {% include goodreads.html %}
                 </div>
             </div>
           </div>
