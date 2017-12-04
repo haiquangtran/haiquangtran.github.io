@@ -5,7 +5,7 @@ date:   2017-01-01 15:33:17 +1300
 categories: travel
 ---
 
-> "There are so many tiny, beautiful, funny, tragic moments in your life -- how are you going to remember them all?".
+> "There are so many tiny, beautiful, funny, tragic moments in your life -- how are you going to remember them all?"
 
 Awhile ago I watched a video of a TEDTalk about a person that would record 1 second of video footage everyday as part of a project, collating the footage. They found that these short 1 second clips were able to help them remember what they did that day and also encouraged them to do something interesting with the day, breaking out of the daily pattern of autopilot. I thought this was a great idea because "visualisation is a way to trigger memory" - Cesar Kuriyama. 
 
