@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The adventures of Hai Tran
+title: Hai Tran
 email: hai.quang.tran@gmail.com
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
 description: >- # this means to ignore newlines until "baseurl:"
-  The adventures, lessons, and experiences of a young Kiwi, making the most of life. 
+  The adventures, lessons, and memories of a young Kiwi, making the most of life. 
   Live.
   Learn.
   Grow.
