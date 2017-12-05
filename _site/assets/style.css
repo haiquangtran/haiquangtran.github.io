@@ -68,6 +68,19 @@ a {
 a:hover {
   text-decoration: underline; }
 
+/* Avatar image */
+#profile_avatar {
+  background-image: url("../assets/images/profile_image.jpg");
+  background-size: cover;
+  background-position: top center;
+  border-radius: 50%;
+  vertical-align: middle; }
+  @media (min-width: 52em) {
+    #profile_avatar {
+      display: inline-block;
+      width: 140px;
+      height: 140px; } }
+
 pre {
   border-left: 8px solid #ddd;
   margin: 32px 0;
