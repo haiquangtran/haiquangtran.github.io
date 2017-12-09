@@ -1,0 +1,25 @@
+#social-side-links {
+  position: fixed;
+  top: 45px;
+  left: 0;
+  padding: 0;
+  list-style: none;
+  z-index: 99;
+
+  li a {
+    display: block;
+  }
+
+  .icon-background {
+    color: $color-dot-accent;
+  }
+  .icon-foreground {
+    color: white;
+  }
+
+  /* Mobile Devices */
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+

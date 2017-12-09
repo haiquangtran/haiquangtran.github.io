@@ -5,7 +5,7 @@
 
 // Import partials from `sass_dir` and set theme here
 @import
-        "themes/theme-{{ site.theme_color | default: "black" }}.scss";
+        "themes/theme-{{ site.theme_color | default: "blue" }}.scss";
 
 // Import sass files for pages here
 @import 
