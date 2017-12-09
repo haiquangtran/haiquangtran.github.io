@@ -1,0 +1,31 @@
+// Default black theme
+
+// Color variables
+$black: #181818;
+$green: #20C20E;
+$green-small: #18870c;
+$white: #fff;
+
+// Config
+$color-background: $black !default;
+$color-dot-accent: $green !default;
+$color-foreground: $white !default;
+$color-title: $green !default;
+$color-body-text: $black !default;
+$color-text-accent: $green !default;
+$color-code: $green-small !default;
+$color-nav-link: $green !default;
+$color-primary-link: $green !default;
+
+.font-smoothing {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;

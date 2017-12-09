@@ -30,7 +30,7 @@ body {
   font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #45474A;
+  color: #181818;
   background-color: #fff; }
 
 p {
@@ -89,7 +89,7 @@ pre {
   overflow-x: auto; }
 
 code {
-  color: #007AB3;
+  color: #18870c;
   font-size: 16px;
   padding: 1px 4px; }
 
@@ -127,7 +127,7 @@ code {
       .prose blockquote p {
         font-size: 32px; } }
 .prose hr {
-  color: #45474A;
+  color: #181818;
   border-style: solid;
   border-width: thin;
   margin-top: 0.5em;
@@ -153,14 +153,14 @@ code {
   .prose table th,
   .prose table td {
     padding: 16px 32px 16px 2px;
-    border-top: 1px solid #45474A;
-    border-bottom: 1px solid #45474A; }
+    border-top: 1px solid #181818;
+    border-bottom: 1px solid #181818; }
   .prose table tr {
     background-color: #fff;
-    border-top: 1px solid #45474A; }
+    border-top: 1px solid #181818; }
   .prose table tr th {
-    border-top: 2px solid #45474A;
-    border-bottom: 2px solid #45474A; }
+    border-top: 2px solid #181818;
+    border-bottom: 2px solid #181818; }
 
 /* Type utilities */
 .h0 {
@@ -215,13 +215,13 @@ code {
 
 /* Theme color utilities */
 .header-background {
-  background-color: #45474A; }
+  background-color: #181818; }
 
 .header-border {
   border-color: #fff; }
 
 .header-title {
-  color: #009DDB; }
+  color: #20C20E; }
 
 .header-text {
   color: #fff; }
@@ -230,13 +230,13 @@ code {
   fill: #fff; }
 
 .header-social-accent {
-  fill: #009DDB; }
+  fill: #20C20E; }
 
 .header-link:hover {
-  color: #009DDB !important; }
+  color: #20C20E !important; }
 
 .text-accent {
-  color: #009DDB; }
+  color: #20C20E; }
 
 /* Layout utilities */
 .container {
@@ -488,7 +488,7 @@ code {
   font-weight: bold;
   text-decoration: none; }
   .link-primary:hover {
-    color: #009DDB;
+    color: #20C20E;
     text-decoration: none; }
 
 #social-side-links {
@@ -502,7 +502,7 @@ code {
   #social-side-links li a {
     display: block; }
   #social-side-links .icon-background {
-    color: #009DDB; }
+    color: #20C20E; }
   #social-side-links .icon-foreground {
     color: white; }
   @media (max-width: 768px) {
