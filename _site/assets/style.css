@@ -30,7 +30,7 @@ body {
   font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #181818;
+  color: #45474A;
   background-color: #fff; }
 
 p {
@@ -89,7 +89,7 @@ pre {
   overflow-x: auto; }
 
 code {
-  color: #DC3918;
+  color: #007AB3;
   font-size: 16px;
   padding: 1px 4px; }
 
@@ -127,7 +127,7 @@ code {
       .prose blockquote p {
         font-size: 32px; } }
 .prose hr {
-  color: #181818;
+  color: #45474A;
   border-style: solid;
   border-width: thin;
   margin-top: 0.5em;
@@ -153,14 +153,14 @@ code {
   .prose table th,
   .prose table td {
     padding: 16px 32px 16px 2px;
-    border-top: 1px solid #181818;
-    border-bottom: 1px solid #181818; }
+    border-top: 1px solid #45474A;
+    border-bottom: 1px solid #45474A; }
   .prose table tr {
     background-color: #fff;
-    border-top: 1px solid #181818; }
+    border-top: 1px solid #45474A; }
   .prose table tr th {
-    border-top: 2px solid #181818;
-    border-bottom: 2px solid #181818; }
+    border-top: 2px solid #45474A;
+    border-bottom: 2px solid #45474A; }
 
 /* Type utilities */
 .h0 {
@@ -215,13 +215,13 @@ code {
 
 /* Theme color utilities */
 .header-background {
-  background-color: #181818; }
+  background-color: #45474A; }
 
 .header-border {
   border-color: #fff; }
 
 .header-title {
-  color: #fff; }
+  color: #009DDB; }
 
 .header-text {
   color: #fff; }
@@ -230,13 +230,13 @@ code {
   fill: #fff; }
 
 .header-social-accent {
-  fill: #E74727; }
+  fill: #009DDB; }
 
 .header-link:hover {
-  color: #E74727 !important; }
+  color: #009DDB !important; }
 
 .text-accent {
-  color: #E74727; }
+  color: #009DDB; }
 
 /* Layout utilities */
 .container {
@@ -488,5 +488,5 @@ code {
   font-weight: bold;
   text-decoration: none; }
   .link-primary:hover {
-    color: #E74727;
+    color: #009DDB;
     text-decoration: none; }

@@ -5,5 +5,8 @@
 
 // Import partials from `sass_dir` and set theme here
 @import
-        "theme-{{ site.theme_color | default: "black" }}.scss"
-;
+        "themes/theme-{{ site.theme_color | default: "blue" }}.scss";
+
+// Import sass files for pages here
+@import 
+		"_social-media_side-bar.scss";
