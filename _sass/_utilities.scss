@@ -41,7 +41,13 @@
 /* Theme color utilities */
 .header-background { background-color: $color-background; }
 .header-border { border-color: $color-foreground; }
-.header-title { color: $color-title; }
+.header-title { 
+  color: $color-title; 
+  
+  @media (max-width: $breakpoint-lg) {
+    color: $color-dot-accent;
+  }
+}
 .header-text { color: $color-foreground; }
 .header-social { fill: $color-foreground; }
 .header-social-accent { fill: $color-dot-accent; }

@@ -221,7 +221,10 @@ code {
   border-color: #fff; }
 
 .header-title {
-  color: #20C20E; }
+  color: #fff; }
+  @media (max-width: 52em) {
+    .header-title {
+      color: #20C20E; } }
 
 .header-text {
   color: #fff; }
@@ -505,6 +508,6 @@ code {
     color: #20C20E; }
   #social-side-links .icon-foreground {
     color: white; }
-  @media (max-width: 768px) {
+  @media (max-width: 52em) {
     #social-side-links {
       display: none; } }
