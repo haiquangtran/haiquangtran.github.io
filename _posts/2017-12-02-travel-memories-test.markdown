@@ -1,7 +1,7 @@
 ---
 id: 1
 layout: post
-title:  "Capture Your Travel Memories"
+title:  "Capture Your Travel Memories Test"
 date:   2017-01-01 15:33:17 +1300
 categories: travel
 comments: true
