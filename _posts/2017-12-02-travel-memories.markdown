@@ -1,8 +1,10 @@
 ---
+id: 1
 layout: post
 title:  "Capture Your Travel Memories"
 date:   2017-01-01 15:33:17 +1300
 categories: travel
+comments: true
 ---
 
 > "There are so many tiny, beautiful, funny, tragic moments in your life -- how are you going to remember them all?"
@@ -15,3 +17,4 @@ You can watch the video TEDTalk video here:
 {% endraw %}
 
 In the past, when I have travelled, I found myself immersed in many activites and experiencing a lot. At the end of the trip, I would forget a lot of the small details and only remember the really important parts. Therefore, I decided to take this concept and apply it to holidays that I go on to make travel videos! I will be posting a lot of those travel memories on this page, hopefully you enjoy it. 
+
