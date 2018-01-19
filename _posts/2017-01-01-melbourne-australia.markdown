@@ -9,8 +9,7 @@ comments: true
 
 Starting 2017 the right way with memories in Melbourne Australia.
 
-{% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wsy-W-C0s-E" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-{% endraw %}
+
 
 
