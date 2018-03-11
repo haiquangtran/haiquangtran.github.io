@@ -27,13 +27,18 @@ TODO:
 # Mental Preparation
 
 # The Fight / Inside the Ring
-TODO: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gV7wIaEZ2Hs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+TODO:
+Some comments on my experience:
 - Ended up being sick on night
 - Adreneline
 - Tunnel vision, you almost forget about the crowd, just feels like there's you and your opponent 
 - Flow state
 - Fully focused, immersed in concentration, patient, surprising silent for such a loud environment
-- Controlled the distance, shutdown any moves with teeps, patiently stalked my opponent, striked when I had 100% confidence I was going to land
-- Fast paced, no time to think, you are almost limited (i.e. I did not even try any fancy moves like question mark kicks that I was planning to before the fight)
+- Tried to control the distance, shutdown any moves with teeps, patiently stalk my opponent, and strike when I had confidence I was going to land. I was cautious in there. 
+- Fast paced, no time to think, you are almost limited in your moves (i.e. I did not even try any fancy moves like question mark kicks that I was planning to before the fight)
 - Ring was a lot slippery than I thought so was hestitant to throw too many kicks and slip.
 - Difficult to hear your corner when you're in there, and a lot harder to execute moves than expected
+- Actually forgot to breath out during each punch and kick.
