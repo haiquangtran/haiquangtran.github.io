@@ -41,4 +41,4 @@ Some comments on my experience:
 - Difficult to hear your corner when you're in there, and a lot harder to execute moves than expected
 - Actually forgot to breath out during each punch and kick.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gV7wIaEZ2Hs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gV7wIaEZ2Hs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen> </iframe>
