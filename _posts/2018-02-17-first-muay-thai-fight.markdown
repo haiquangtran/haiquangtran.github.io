@@ -25,11 +25,9 @@ TODO:
 - All classes at MTI (2 weeks out from fight)
 
 # Mental Preparation
+- Staredown in the ring, noticed that he flinched which gave me confidence.
 
 # The Fight / Inside the Ring
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gV7wIaEZ2Hs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 TODO:
 Some comments on my experience:
 - Ended up being sick on night
@@ -42,3 +40,5 @@ Some comments on my experience:
 - Ring was a lot slippery than I thought so was hestitant to throw too many kicks and slip.
 - Difficult to hear your corner when you're in there, and a lot harder to execute moves than expected
 - Actually forgot to breath out during each punch and kick.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gV7wIaEZ2Hs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
