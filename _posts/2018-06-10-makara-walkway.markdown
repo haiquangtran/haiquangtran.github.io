@@ -2,7 +2,7 @@
 disqus_id: 8
 layout: post
 title:  "Makara Walkway, New Zealand"
-date:   2018-06-11 3:33:17 +1300
+date:   2018-06-11 16:00:17 +1300
 categories: travel
 comments: true
 ---
