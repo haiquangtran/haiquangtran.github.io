@@ -1,7 +1,7 @@
 ---
 disqus_id: 3
 layout: post
-title:  "Queenstown New Zealand"
+title:  "Queenstown, New Zealand"
 date:   2017-09-14 15:33:17 +1300
 categories: travel
 comments: true
