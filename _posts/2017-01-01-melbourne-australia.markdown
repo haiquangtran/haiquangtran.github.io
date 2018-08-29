@@ -1,7 +1,7 @@
 ---
 disqus_id: 2
 layout: post
-title:  "Melbourne Australia"
+title:  "Melbourne, Australia"
 date:   2017-01-01 15:33:17 +1300
 categories: travel
 comments: true
