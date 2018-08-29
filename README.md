@@ -1,6 +1,6 @@
 # Website & Blog
 
-Website and blog. The life lessons, adventures, and memories of a young Kiwi, striving to make the most of life. Blog contains travel memories/videos and summaries of books that I have read in order to learn and internalize them better. 
+Website and blog. A space to journal my adventures and memories. Blog contains travel memories/videos and summaries of books that I have read in order to learn and internalize them better. 
 Still under development. 
 
 ## License
