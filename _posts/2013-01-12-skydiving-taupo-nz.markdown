@@ -1,4 +1,3 @@
-
 ---
 disqus_id: 9
 layout: post
