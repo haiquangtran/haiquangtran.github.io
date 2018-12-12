@@ -1,0 +1,11 @@
+---
+disqus_id: 10
+layout: post
+title:  "15,000 ft Skydive, Taupo, New Zealand"
+date:   2018-06-28 16:00:17 +1300
+categories: travel
+comments: true
+---
+
+My travel adventures in Greece.
+I started in Athens, then went to Olympia, Delphi, Mykonos, Santorini, Ios and finally Zakynthos.
