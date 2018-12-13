@@ -9,3 +9,7 @@ comments: true
 
 My travel adventures in Greece.
 I started in Athens, then went to Olympia, Delphi, Mykonos, Santorini, Ios and finally Zakynthos.
+
+Check out the video below of my adventures.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3H_P-l0ic1A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
