@@ -1,8 +1,8 @@
 ---
 disqus_id: 10
 layout: post
-title:  "Experiencing Greece"
-date:   2018-06-28 16:00:17 +1300
+title:  "Travelling Greece"
+date:   2018-06-18 16:00:17 +1300
 categories: travel
 comments: true
 ---
