@@ -1,7 +1,7 @@
 ---
 disqus_id: 11
 layout: post
-title:  "Coronavirus (COVID-19) tracker"
+title:  "COVID-19 tracker"
 date:   2020-03-22 21:00:17 +1300
 categories: news
 comments: true
@@ -9,7 +9,7 @@ comments: true
 
 # Coronavirus (COVID-19) tracker
 
-**Website:** https://ncovstats.live/
+(**Website:** https://ncovstats.live/).
 
 The Coronavirus disease (COVID-19) is a pandemic, that has turned our world upside down.
 It is important to stay well informed and understand how we can prevent the spread of COVID-19.
