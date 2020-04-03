@@ -7,9 +7,7 @@ categories: news
 comments: true
 ---
 
-# Coronavirus (COVID-19) tracker
-
-See the Coronavirus (COVID-19) Stats Live tracker here: https://ncovstats.live.
+The latest Coronavirus (COVID-19) Statistics tracker can be found here: https://ncovstats.live.
 
 The Coronavirus disease (COVID-19) is a pandemic, that has turned our world upside down.
 It is important to stay well informed and understand how we can prevent the spread of COVID-19.
