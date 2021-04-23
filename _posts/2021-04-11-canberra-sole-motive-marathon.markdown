@@ -64,3 +64,9 @@ CATEGORY PLACE (18-29): 177 / 188
 
 To see my legs visit here: https://www.solemotive.com/pages/ctmf-results#1_B320A6
 
+## Lessons for the next marathon?
+- Train consistently so joints and body can adapt to the stress of running. 
+- Come prepared for the temperature, bring warmer clothes (depending on where race is). A singlet and shorts on a 6 am run on a cold morning in Canberra was not comfortable.
+- Bring some snacks (bars) and Gels! (important). Gels were life savers in my first Marathon run. I don't know if I could do without it.
+- Stay hydrated.
+- Monitor pace, and save energy for the last 10km of the race. Around the 30km mark is where the real race begins (between mind and body).
